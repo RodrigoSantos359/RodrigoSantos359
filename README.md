@@ -18,6 +18,8 @@
  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div><br/>
 
+![Snake animation](https://github.com/RodrigoSantos359/RodrigoSantos359/blob/output/githut-contribution-grid-snake.svg)
+
 ## Mais informação sobre me
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
