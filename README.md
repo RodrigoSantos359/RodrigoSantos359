@@ -26,6 +26,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 - ⚠️Conhecimento básico em PYTHON, JAVASCRIPT, CSS & HTML
 - 📧Contatar-me: hguuikl@gmail.com
 
+
 ![Snake animation](https://github.com/RodrigoSantos359/RodrigoSantos359/blob/output/githut-contribution-grid-snake.svg)
 
 
