@@ -23,9 +23,9 @@
 ## Mais informação sobre me
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-💻 Estudando Sistema de Informação (4º período)
-⚠️ Conhecimento básico em PYTHON, JAVASCRIPT, CSS & HTML
-📧 Contatar-me: hguuikl@gmail.com
+- 💻 Estudando Sistema de Informação (4º período).
+- ⚠️ Conhecimento médio em PYTHON, JAVASCRIPT, CSS & HTML.
+- 📧 Contatar-me: hguuikl@gmail.com
 
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/githut-contribution-grid-snake.svg)
