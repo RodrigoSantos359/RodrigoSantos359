@@ -23,7 +23,7 @@
 ## Mais informação sobre me
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-- 💻 Estudando Sistema de Informação (4º período).
+- 💻 Estudando Sistema de Informação (5º período).
 - ⚠️ Conhecimento médio em PYTHON, JAVASCRIPT, CSS & HTML.
 - 📧 Contatar-me: hguuikl@gmail.com
 
