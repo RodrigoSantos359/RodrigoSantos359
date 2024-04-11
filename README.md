@@ -25,7 +25,7 @@
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 - 💻 Estudando Sistema de Informação (5º período).
 - ⚠️ Conhecimento médio em PYTHON, JAVASCRIPT, CSS & HTML.
-- 📧 Contatar-me: hguuikl@gmail.com
+- 📧 Contatar-me: rsb.beserra@gmail.com
 
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/githut-contribution-grid-snake.svg)
