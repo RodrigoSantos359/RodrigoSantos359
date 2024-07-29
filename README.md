@@ -8,7 +8,7 @@
 
 ![Rodrigo Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoSantos359&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSantos359)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -19,6 +19,7 @@
  <img align="center" alt="Photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSantos359)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Mais informação sobre me
 
@@ -26,8 +27,3 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 - 💻 Estudando Sistema de Informação (5º período).
 - ⚠️ Conhecimento médio em PYTHON, JAVASCRIPT, CSS & HTML.
 - 📧 Contatar-me: rsb.beserra@gmail.com
-
-
-![Snake animation](https://github.com/RodrigoSantos359/RodrigoSantos359/blob/output/githut-contribution-grid-snake.svg)
-
-
