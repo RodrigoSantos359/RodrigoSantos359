@@ -25,5 +25,5 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 - 💻 Estudando Sistema de Informação (5º período).
-- ⚠️ Conhecimento médio em PYTHON, JAVASCRIPT, CSS & HTML.
+- ⚠️ Conhecimento em PYTHON, JAVASCRIPT, CSS & HTML.
 - 📧 Contatar-me: rsb.beserra@gmail.com
