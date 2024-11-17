@@ -14,7 +14,7 @@
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=RodrigoSantos359&show_icons=true&theme=dark" alt="Estatísticas" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSantos359&layout=compact" alt="Top Linguagens" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSantos359&layout=compact&theme=dark" alt="Top Linguagens" /></td>
   </tr>
 </table>
 
