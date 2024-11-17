@@ -5,6 +5,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/rodrigo-santos-3b5511269/)
 <hr>
+
+## ⭐ Visitantes
+<div align="center">  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RodrigoSantos359}/count.svg" /></p> 
+</div> 
+
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=RodrigoSantos359&show_icons=true&theme=dark" alt="Estatísticas" /></td>
