@@ -29,11 +29,11 @@
    <td><img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></td>
    <td><img align="center" alt="Photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg"/></td>
  </tr>
-</table><br/>
+</table><br/
 
 
 <h2 align="center">Mais informação</h2>
 <h5>Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.</h5>
 <h6>- 💻 Cursando Sistema de Informação (5º período).</h6>
 <h6>- ⚠️Conhecimento em PYTHON, JAVASCRIPT, CSS & HTML.</h6>
-<h6>- 📧 Contatar-me: rsb.beserra@gmail.com</h6>
+<h6>- 📧 Contatar-me: rsb.beserra@gmail.com</h6>  
