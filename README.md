@@ -26,12 +26,18 @@
 <table align="center">
  <tr>
    <td><img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
+   <td><img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></td>
    <td><img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
    <td><img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></td>
-   <td><img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></td>
-   <td><img align="center" alt="N8N" src="https://img.shields.io/badge/N8N-red?style=for-the-badge&logo=n8n&logoColor=black"/></td>
    <td><img align="center" alt="Photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg"/></td>
+   <td><img align="center" alt="DOCKER" src="https://img.shields.io/badge/DOCKER-blue?style=for-the-badge&logo=docker&logoColor=white"/></td>
  </tr>
+  <tr>
+     <td><img align="center" alt="N8N" src="https://img.shields.io/badge/N8N-red?style=for-the-badge&logo=n8n&logoColor=black"/></td>
+     <td><img align="center" alt="DIFY" src="https://cdn.brandfetch.io/dify.ai/fallback/lettermark/theme/light/h/20/w/60/logo?c=1bfwsmEH20zzEfSNTed"/></td>
+    <td><img align="center" alt="POSTGRES" src="https://img.shields.io/badge/POSTGRES-blue?style=for-the-badge&logo=PostgreSQL&logoColor=black"/></td>
+    <td><img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white"/></td>
+  </tr>
 </table><br/
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=20&center=true&vCenter=false&width=1000&lines=Apaixonado+por+tecnologia,+educação+e+por+mudar+a+vida+das+pessoas+através+da+programação.;Cursando+Sistema+de+Informação!;Conhecimento+em+JAVASCRIPT+,+PYTHON+CSS+HTML+e+N8N:%29)](https://git.io/typing-svg)
