@@ -48,7 +48,7 @@
 
 <h5>Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.</h5>
 <h6>- 💻 Cursando Sistema de Informação (7º período).</h6>
-<h6>- ⚠️Conhecimento em PYTHON, JAVASCRIPT, CSS, HTML & N8N.</h6>
+<h6>- ⚠️Conhecimento em PYTHON, JAVASCRIPT, CSS, HTML, N8N & SQL.</h6>
 <h6>- 📧 Contatar-me: rsb.beserra@gmail.com</h6>  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=150&section=footer&text=Obrigado+pela+visita+:%29&fontColor=000&animation=twinkling&fontAlignY=50&fontSize=30"/>
