@@ -47,7 +47,7 @@
 </h2>
 
 <h5>Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.</h5>
-<h6>- 💻 Cursando Sistema de Informação (6º período).</h6>
+<h6>- 💻 Cursando Sistema de Informação (7º período).</h6>
 <h6>- ⚠️Conhecimento em PYTHON, JAVASCRIPT, CSS, HTML & N8N.</h6>
 <h6>- 📧 Contatar-me: rsb.beserra@gmail.com</h6>  
 
