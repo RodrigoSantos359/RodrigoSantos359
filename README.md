@@ -48,19 +48,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=20&center=true&vCenter=false&width=1000&lines=Apaixonado+por+tecnologia,+educação+e+por+mudar+a+vida+das+pessoas+através+da+programação.;Cursando+Sistema+de+Informação!;Conhecimento+em+JAVASCRIPT+,+PYTHON+CSS+HTML+e+N8N:%29)](https://git.io/typing-svg)
 <div>
-<img alt="Python" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python"/>
+<img alt="Python logo" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python"/>
 <img width="8" />
-<img alt="Javascript" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript"/>
+<img alt="Javascript logo" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript"/>
   <img width="8" />
-<img alt="NodeJS" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
+<img alt="NodeJS logo" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
   <img width="8" />
-<img alt="Typescript" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript"/>
+<img alt="Typescript logo" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript"/>
   <img width="8" />
-<img alt="React" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"/>
+<img alt="React logo" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"/>
   <img width="8" />
-<img alt="Postgres" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+<img alt="Postgres logo" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
   <img width="8" />
-<img alt="Docker" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg"/>
+<img alt="Docker logo" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg"/>
   <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" width="32" alt="fastapi logo"/>
   <img width="8" />
@@ -68,17 +68,19 @@
   <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" width="32" alt="mysql logo"/>
   <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" width="32" alt="github logo"/>
+<img src="https://avatars.githubusercontent.com/u/9919?s=48&v=4" height="32" width="32" alt="github logo"/>
   <img width="8" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" width="32" alt="git logo"/>
   <img width="8" />
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="32" width="32" alt="rabbitMQ logo"/>
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" width="32" alt="sqlite logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" width="32" alt="sqlite logo"/>
 <img width="8"/>
-<img src="https://www.svgrepo.com/show/306500/openai.svg" height="32" width="32" alt="openai logo" />
+<img src="https://avatars.githubusercontent.com/u/14957082?s=48&v=4" height="32" width="32" alt="openai logo"/>
 <img width="8"/>
-<img src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" height="32" width="32" alt="N8N"  />
+<img src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" height="32" width="32" alt="N8N logo"/>
+<img width="8"/>
+<img src="https://avatars.githubusercontent.com/u/2232217?s=48&v=4" height="32" width="32" alt="AWS logo"/>
 </div>
 
 
