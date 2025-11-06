@@ -9,8 +9,9 @@
 <hr>
 
 ## ⭐ Visitantes
-<div align="center">  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RodrigoSantos359}/count.svg" /></p> 
+  
+<div align="center">
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=RodrigoSantos359&color=249120" /></p> 
 </div> 
 
 <table align="center">
