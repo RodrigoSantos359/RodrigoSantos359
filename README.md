@@ -4,6 +4,7 @@
 
 <hr>
 
+## 💖 Apoie meu trabalho no GitHub Sponsors  👉 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4)](https://github.com/sponsors/RodrigoSantos359)
 ## ⭐ Visitantes
   
 <div align="center">
@@ -91,6 +92,7 @@
   [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge&height=50)](https://www.instagram.com/rodrygo_of/)
   [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&height=50)](https://www.linkedin.com/in/rodrigo-santos-3b5511269/)
   [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge&height=50)](mailto:rsb.beserra@gmail.com)
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=150&section=footer&text=Obrigado+pela+visita+:%29&fontColor=000&animation=twinkling&fontAlignY=50&fontSize=30"/>
