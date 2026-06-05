@@ -30,20 +30,20 @@
 <h2 align="center">🚀 Tecnologias e Ferramentas</h2>
 <table align="center">
  <tr>
-   <td><td><img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
-   <td><td><img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></td>
-   <td><td><img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
-   <td><td><img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></td>
-   <td><td><img align="center" alt="Photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg"/></td>
-   <td><td><img align="center" alt="DOCKER" src="https://img.shields.io/badge/DOCKER-blue?style=for-the-badge&logo=docker&logoColor=white"/></td>
+   <td><td><img align="center" alt="html5" src="https://badges.aleen42.com/src/html5.svg"/></td>
+   <td><td><img align="center" alt="CSS" src="https://badges.aleen42.com/src/css3.svg"/></td>
+   <td><td><img align="center" alt="JavaScript" src="https://badges.aleen42.com/src/javascript.svg"/></td>
+   <td><td><img align="center" alt="Python" src="https://badges.aleen42.com/src/python.svg"/></td>
+   <td><td><img align="center" alt="PHP" src="https://badges.aleen42.com/src/php.svg"/></td>
+   <td><td><img align="center" alt="DOCKER" src="https://badges.aleen42.com/src/docker.svg"/></td>
  </tr>
   <tr>
      <td><td><img align="center" alt="N8N" src="https://img.shields.io/badge/N8N-red?style=for-the-badge&logo=n8n&logoColor=black"/></td>
      <td><td><img align="center" alt="DIFY" src="https://cdn.brandfetch.io/dify.ai/fallback/lettermark/theme/light/h/20/w/60/logo?c=1bfwsmEH20zzEfSNTed"/></td>
-    <td><td><img align="center" alt="POSTGRES" src="https://img.shields.io/badge/POSTGRES-blue?style=for-the-badge&logo=PostgreSQL&logoColor=black"/></td>
-    <td><td><img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white"/></td>
-    <td><td><img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></td>
-    <td><td><img align="center" alt="GoogleCloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></td>
+    <td><td><img align="center" alt="POSTGRES" src="https://badges.aleen42.com/src/postgresql.svg"/></td>
+    <td><td><img align="center" alt="GITHUB" src="https://badges.aleen42.com/src/github.svg"/></td>
+    <td><td><img align="center" alt="AWS" src="https://badges.aleen42.com/src/aws.svg"/></td>
+    <td><td><img align="center" alt="GoogleCloud" src="https://badges.aleen42.com/src/googleclound.svg"/></td>
   </tr>
 </table>
 <br>
@@ -78,7 +78,7 @@
 <h2 align="center">📱 Contatos</h2>
 <div>
  
-  [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge&height=50)](https://www.instagram.com/rodrygo_of/)
+  [![Instagram](https://badges.aleen42.com/src/instagram.svg)](https://www.instagram.com/rodrygo_of/)
   [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&height=50)](https://www.linkedin.com/in/rodrigo-santos-3b5511269/)
   [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge&height=50)](mailto:rsb.beserra@gmail.com)
 
