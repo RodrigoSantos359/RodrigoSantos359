@@ -34,16 +34,16 @@
    <td><td><img align="center" alt="CSS" src="https://badges.aleen42.com/src/css3.svg"/></td>
    <td><td><img align="center" alt="JavaScript" src="https://badges.aleen42.com/src/javascript.svg"/></td>
    <td><td><img align="center" alt="Python" src="https://badges.aleen42.com/src/python.svg"/></td>
-   <td><td><img align="center" alt="PHP" src="https://badges.aleen42.com/src/php.svg"/></td>
+   <td><td><img align="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></td>
    <td><td><img align="center" alt="DOCKER" src="https://badges.aleen42.com/src/docker.svg"/></td>
  </tr>
   <tr>
-     <td><td><img align="center" alt="N8N" src="https://img.shields.io/badge/N8N-red?style=for-the-badge&logo=n8n&logoColor=black"/></td>
-     <td><td><img align="center" alt="DIFY" src="https://cdn.brandfetch.io/dify.ai/fallback/lettermark/theme/light/h/20/w/60/logo?c=1bfwsmEH20zzEfSNTed"/></td>
+     <td><td><img align="center" alt="N8N" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/></td>
+     <td><td><img align="center" alt="VERCEL" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></td>
     <td><td><img align="center" alt="POSTGRES" src="https://badges.aleen42.com/src/postgresql.svg"/></td>
     <td><td><img align="center" alt="GITHUB" src="https://badges.aleen42.com/src/github.svg"/></td>
-    <td><td><img align="center" alt="AWS" src="https://badges.aleen42.com/src/aws.svg"/></td>
-    <td><td><img align="center" alt="GoogleCloud" src="https://badges.aleen42.com/src/googleclound.svg"/></td>
+    <td><td><img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></td>
+    <td><td><img align="center" alt="GoogleCloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></td>
   </tr>
 </table>
 <br>
