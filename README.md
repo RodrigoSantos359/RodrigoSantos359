@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Rodrigo+Santos;Seja+bem+vindo!!+:%29)](https://git.io/typing-svg)
 
-<hr>
 
 ## 💖 Apoie meu trabalho no GitHub Sponsors  👉 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4)](https://github.com/sponsors/RodrigoSantos359)
 ## ⭐ Visitantes
@@ -21,6 +20,7 @@
 
 <br>
 <p align="center">
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
     <td><img width="100%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula"/>
   </a>
