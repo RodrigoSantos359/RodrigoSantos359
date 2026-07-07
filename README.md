@@ -12,10 +12,11 @@
 
 <table align="center">
   <tr>
-    <td><td><a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak"/></a><td></td>
+    <td><td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RodrigoSantos359&theme=dark" alt="GitHub Streak" /></a><td></td>
     <!-- <td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSantos359&layout=compact&theme=dark" alt="Top Linguagens" /></td> -->
   </tr>
 </table>
+<!-- <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak"/></a> -->
 
 
 <br>
