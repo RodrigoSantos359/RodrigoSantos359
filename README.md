@@ -12,17 +12,16 @@
 
 <table align="center">
   <tr>
-    <td><td><img src="https://github-readme-stats.vercel.app/api?username=RodrigoSantos359&show_icons=true&theme=dark" alt="Estatísticas" /></td>
-    <td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSantos359&layout=compact&theme=dark" alt="Top Linguagens" /></td>
+    <td><td><a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak"/></a><td></td>
+    <!-- <td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSantos359&layout=compact&theme=dark" alt="Top Linguagens" /></td> -->
   </tr>
 </table>
 
 
 <br>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-    <td><img width="100%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula"/>
+    <!-- <td><img width="100%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula"/> -->
   </a>
 </p>
 <br>
